@@ -17,7 +17,7 @@ Let's code a simple Hello World using Go and a Fiber framework.
 ## Steps to run this demo
 Clone this repository:
 ```
-git https://github.com/ideas2codeweb/Load-pages-with-react-router-dom.git
+git https://github.com/ideas2codeweb/Hello-world-with-go-and-fiber.git
 ```
 Download Fiber framework via terminal
 
