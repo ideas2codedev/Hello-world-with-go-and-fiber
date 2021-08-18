@@ -1,11 +1,8 @@
 # Hello world with go and fiber
-![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/08/portada-2.jpg)
+![enter image description here](https://user-images.githubusercontent.com/9513390/129836548-1afd562e-8eeb-490f-ae74-a67b7bbf11fc.jpg)
+
 
 Let's code a simple Hello World using Go and a Fiber framework.
-
-## Sponsor
-
-[![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/10/bar.fw_.png)](http://adf.ly/23757721/www.ideas2code.io)
 
 ## Objetive
 
